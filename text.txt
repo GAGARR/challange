@@ -1,0 +1,20 @@
+This is a How to run the Python file that is hidden in here. Nothing here is a virus and i can garrentee that.
+
+To download Python:
+
+Step 1:
+https://www.python.org/downloads/windows/
+Open this link and select Latest Python 3 Release - Python 3.10.0
+
+Step 2:
+Once downloaded, run it and install it. Once installed, do any prompt it gives you.
+
+Step 3:
+Open up Powershell. (Windows Powershell)
+
+Step 4: 
+Go find your downloads in your C: (windows installation or where you downloaded it)
+Example
+C:\Users\YOURNAME\Downloads\PYTHONFILE.PY\
+and put CD before typing it in. EG:
+cd C:\Users\YOURNAME\Downloads\
